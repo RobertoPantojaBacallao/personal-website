@@ -1,0 +1,62 @@
+{
+  "professionalSummary": {
+	  "sectionTitle": "Professional Summary",
+	  "content": {
+		"name": "Roberto Pantoja",
+		"title": "Software Engineer",
+		"content": " Experienced Software Engineer with a strong background in full-stack development, machine learning, and system optimization. Proven ability to develop scalable web solutions using React and Flask. Skilled in solving complex technical issues and effectively collaborating with stakeholders to deliver impactful solutions. Currently pursuing a Master’s in Computer Science to advance expertise and stay current with industry trends."
+	  }
+	},
+  "workExperience": {
+	"sectionTitle": "Work Experience",
+	"content":  [{
+		"company": "IBM",
+		"title": "Data Scientist",
+		"startDate": "January 2022",
+		"endDate": "Present",
+		"responsibilities": [
+		  "Enhanced alarge-scale data lineage application using Flask, SQL, SQLFlow, and gremlin, resulting in a 10% reduction in call latency, improved data traceability, and new features.",
+		  "Reduced batch data processing time by 99% (4 hours to 45 seconds) through algorithm optimization.",
+		  "Interfaced with consumers and stakeholders to gather requirements, provide updates, and incorporate feedback into product enhancements, ensuring that the solutions met user needs and expectations.",
+		  "Resolved critical bugs and performance issues through rigorous debugging and code review processes, ensuring higher software reliability and stability.",
+		  "Developed web-based applications for LLM APIs using REACT and Svelte, enabling users to interact with our models through a user-friendly interface",
+		  "Utilized Flask and FastAPI to develop LLM APIs utilizing chain-of-thought prompting to generate fine-grained results and integrated with vector databases for efficient document retrieval using various approximate nearest neighbors (ANN) algorithms (e.g., HNSW) to efficiently retrieve relevant information.",
+		  "Engineered machine learning models for a top global bank using XGBoost and Random Forest algorithms, improving classification accuracy by 50%.",
+		  "Applied NLP techniques to enhance signal in transcripts for classification, utilizing tokenization, lemmatization, and named entity recognition (NER)."
+		],
+		"skills": ["python"]
+	  },
+	{
+	  "company": "KForce",
+	  "title": "Programmer Analyst",
+	  "startDate": "September 2021",
+	  "endDate": "January 2022",
+	  "responsibilities": [
+		"Supported real-time traders by developing and maintaining high-performance trading platforms, ensuring low-latency and high-throughput operations.",
+		"Utilized shell scripting and programming concepts to maintain the proper functioning of real-time trading systems and data pipelines, including monitoring and troubleshooting issues",
+		"Upgraded several sites to modern software stacks, incorporating technologies such as Docker and Kubernetes, which increased efficiency, scalability, and resiliency of the trading systems."
+	  ],
+	  "skills": ["python"]
+	}	
+  ]
+  },
+  "education" : {
+	  "sectionTitle": "Education",
+	  "content": [
+	  {
+		"university": "Georgia Institute of Technology",
+		"degree": "Master's",
+		"major": "Computer Science",
+		"startDate": "Jan 2025",
+		"endDate": "Present"
+	  },
+	  {
+		"university": "University of Florida",
+		"degree": "Bachelor's",
+		"major": "Computer Science",
+		"startDate": "August 2017",
+		"endDate": "May 2021"
+	  }
+	]
+  }
+}
