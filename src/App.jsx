@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Contact from "./pages/Contact"
 import Work from "./pages/Work"
@@ -9,8 +8,6 @@ import Header from "./components/Header/Header.jsx"
 import "./App.css"
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <div className="grid grid-rows-10 w-screen h-screen bg-zinc-900 text-white">
 	  <div className="row-span-1 drop-shadow-lg">
