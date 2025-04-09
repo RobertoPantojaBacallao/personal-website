@@ -16,7 +16,7 @@ function App() {
 	  <div className="row-span-1 drop-shadow-lg">
 		<Header />
 	  </div>
-	  <div className="row-span-9 overflow-scroll hide-scrollbar py-10">
+	  <div className="row-span-9 overflow-scroll hide-scrollbar py-5">
 		<BrowserRouter>
 		  <Routes>
 			<Route path="contact" element={<Contact />}/>

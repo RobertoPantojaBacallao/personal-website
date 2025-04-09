@@ -16,7 +16,7 @@ const ScrollArea = (props) => {
 	  <div className="flex flex-col justify-center text-center gap-y-20">
 		  {props.sections.map( section =>
 			<div className='w-96' key={section.title}>
-			  <p className="hover-underline-middle hover:scale-110 transition duration-300 active:scale-90" key={section.title} onClick={() => scrollToClassName(section.title)}>
+			  <p className="text-3xl font-semibold hover-underline-middle hover:scale-110 transition duration-300 active:scale-90" key={section.title} onClick={() => scrollToClassName(section.title)}>
 				{section.title}
 			  </p>
 			</div> )}

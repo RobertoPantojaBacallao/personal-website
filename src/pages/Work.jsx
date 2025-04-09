@@ -7,6 +7,8 @@ const Work = (props) => {
 
   const { professionalSummary, workExperience, education } = resumeInfo
 
+  console.log(resumeInfo);
+
   const sections = [{
 	"title": professionalSummary.sectionTitle,
 	"content": [<ProfessionalSummary key={professionalSummary.content.title} professionalSummary={professionalSummary.content} />]
