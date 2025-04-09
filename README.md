@@ -2,8 +2,8 @@
 
 A simple website used to display my work experience and any projects I find interesting.
 
-<img src="https://github.com/user-attachments/assets/d765e7d0-1284-49eb-9c78-237e1c719e03" alt="React" height="100"/>
-<img src="https://github.com/user-attachments/assets/aa63798b-9438-414e-a960-183b30ccbd3d" alt="React" height="100"/>
+<a href="https://react.dev/"><img src="https://github.com/user-attachments/assets/d765e7d0-1284-49eb-9c78-237e1c719e03" alt="React" height="100"/></a>
+<a href="https://tailwindcss.com/"><img src="https://github.com/user-attachments/assets/aa63798b-9438-414e-a960-183b30ccbd3d" alt="React" height="100"/></a>
 
 [Live Site](https://www.roberto-pantoja.com)
 
