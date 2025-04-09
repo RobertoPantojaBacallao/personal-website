@@ -8,7 +8,7 @@ const Home = (props) => {
 			<div className="flex flex-col w-3/5 self-center justify-center gap-y-10 px-20">
 				<div className="flex flex-col self-center">
 					<div className="flex flex-row pb-10 self-center justify-evenly gap-x-10 items-start">
-						<div className="flex flex-col self-center basis-1/3">
+						<div className="flex fade-up flex-col self-center basis-1/3">
 							<img style={{"clip-path":"circle()", "max-width": "100%"}}src={ProfilePicture} alt="pfp"/>
 						</div>
 						<div className="flex basis-2/3 flex-col self-center">
